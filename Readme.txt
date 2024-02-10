@@ -1,1 +1,0 @@
-This is ecommerce platform using Golang
